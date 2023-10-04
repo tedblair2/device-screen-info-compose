@@ -16,5 +16,10 @@ In order to use this library in your application, follow these steps:
 ```
 2. Open your project's settings.gradle and add the following:
 ```kotlin
-code here
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+}
 ```
