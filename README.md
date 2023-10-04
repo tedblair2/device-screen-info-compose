@@ -82,4 +82,7 @@ Here are the results in a Nexus 7 Tablet emulator.
 
 And the screenshots below show the result in Samsung A23 phone
 * In Landscape Mode
+  
+  ![Screenshot_20231004_230419_DeviceScreenSize](https://github.com/tedblair2/device-screen-info-compose/assets/39332527/d5bc68f9-bf5e-464d-929a-a1aab0f5eaaf)
+
 * In Portrait Mode
