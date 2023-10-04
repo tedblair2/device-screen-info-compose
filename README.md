@@ -3,8 +3,8 @@ This is an Android compose library that provides a convenient way to retrieve an
 
 ## Table of Contents
 * [Installation](https://github.com/tedblair2/device-screen-info-compose/blob/main/README.md#installation)
-* Usage
-* Examples
+* [Usage](https://github.com/tedblair2/device-screen-info-compose/blob/main/README.md#usage)
+* [Examples](https://github.com/tedblair2/device-screen-info-compose/blob/main/README.md#examples)
 
 ## Installation
 In order to use this library in your application, follow these steps:
