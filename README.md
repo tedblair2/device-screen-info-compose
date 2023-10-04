@@ -13,4 +13,5 @@ In order to use this library in your application, follow these steps:
   dependencies {
 	implementation 'com.github.tedblair2:device-screen-info-compose:1.0'
 }
-
+```
+2. Open your project's settings.gradle and add the following:
