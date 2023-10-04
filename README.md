@@ -69,3 +69,4 @@ fun ExampleComposable() {
     }
 }
 ```
+The width and height values are in `DP` value, a measuring unit used in Jetpack compose.
