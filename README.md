@@ -33,6 +33,7 @@ The ScreenType class has four possible subclasses:
 * `PhoneLandscape`: Represents a phone in landscape orientation.
 * `TabletPortrait`: Represents a tablet in portrait orientation.
 * `TabletLandscape`: Represents a tablet in landscape orientation.
+
 To use this library, simply call `rememberDeviceScreenInfo()` in your Composable function to obtain the current screen information.
 
 ```kotlin
