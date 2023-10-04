@@ -2,9 +2,9 @@
 This is an Android compose library that provides a convenient way to retrieve and categorize information about a device's screen size and orientation.
 
 ## Table of Contents
-* [Installation](https://github.com/tedblair2/device-screen-info-compose/blob/main/README.md#installation)
-* [Usage](https://github.com/tedblair2/device-screen-info-compose/blob/main/README.md#usage)
-* [Example](https://github.com/tedblair2/device-screen-info-compose/blob/main/README.md#example)
+* [Installation](https://github.com/tedblair2/device-screen-info-compose#installation)
+* [Usage](https://github.com/tedblair2/device-screen-info-compose#usage)
+* [Example](https://github.com/tedblair2/device-screen-info-compose#example)
 
 ## Installation
 In order to use this library in your application, follow these steps:
