@@ -14,7 +14,7 @@ In order to use this library in your application, follow these steps:
 	implementation 'com.github.tedblair2:device-screen-info-compose:1.0'
 }
 ```
-2. Open your project's settings.gradle and add the following:
+2. Open your project's settings.gradle file and add the following:
 ```kotlin
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
@@ -23,3 +23,4 @@ dependencyResolutionManagement {
     }
 }
 ```
+3. Sync your project with the updated Gradle files.
