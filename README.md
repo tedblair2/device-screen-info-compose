@@ -43,3 +43,29 @@ fun MyComposable() {
     // ...
 }
 ```
+## Example
+Here is an example of how you could use the library in your composable
+```kotlin
+@Composable
+fun ExampleComposable() {
+    val screenInfo = rememberDeviceScreenInfo()
+    val width = screenInfo.width
+    val height = screenInfo.height
+    val text = when (screenInfo) {
+        is ScreenType.PhoneLandscape -> "phone_landscape"
+        is ScreenType.PhonePortrait -> "phone_portrait"
+        is ScreenType.TabletPortrait -> "tablet_portrait"
+        is ScreenType.TabletLandscape -> "tablet_landscape"
+    }
+
+    Column(
+        modifier = Modifier.fillMaxSize(),
+        verticalArrangement = Arrangement.Center,
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Text(text = text, fontSize = 30.sp, fontWeight = FontWeight.Bold)
+        Text(text = "Width:${width.toString()}", fontSize = 25.sp)
+        Text(text = "Height:${height.toString()}", fontSize = 25.sp)
+    }
+}
+```
