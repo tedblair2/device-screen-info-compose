@@ -77,3 +77,6 @@ Here are the results in a Nexus 7 Tablet emulator.
 ![Screenshot_20231004_201715](https://github.com/tedblair2/device-screen-info-compose/assets/39332527/534d94ad-dd71-4e87-b8e6-b556e4f209b6)
 
  * In Portrait Mode
+
+![Screenshot_20231004_201830](https://github.com/tedblair2/device-screen-info-compose/assets/39332527/b1a61466-0f52-456b-8de4-8a10a7e303e9)
+
