@@ -2,7 +2,7 @@
 This is an Android compose library that provides a convenient way to retrieve and categorize information about a device's screen size and orientation.
 
 ## Table of Contents
-* Installation
+* [Installation](https://github.com/tedblair2/device-screen-info-compose/blob/main/README.md#installation)
 * Usage
 * Examples
 
