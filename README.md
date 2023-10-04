@@ -80,3 +80,6 @@ Here are the results in a Nexus 7 Tablet emulator.
 
 ![Screenshot_20231004_201830](https://github.com/tedblair2/device-screen-info-compose/assets/39332527/b1a61466-0f52-456b-8de4-8a10a7e303e9)
 
+And the screenshots below show the result in Samsung A23 phone
+* In Landscape Mode
+* In Portrait Mode
