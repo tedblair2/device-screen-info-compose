@@ -80,9 +80,14 @@ Here are the results in a Nexus 7 Tablet emulator.
 
 ![Screenshot_20231004_201830](https://github.com/tedblair2/device-screen-info-compose/assets/39332527/b1a61466-0f52-456b-8de4-8a10a7e303e9)
 
-And the screenshots below show the result in Samsung A23 phone
+And the screenshots below show the result in a Samsung A23 phone
 * In Landscape Mode
   
   ![Screenshot_20231004_230419_DeviceScreenSize](https://github.com/tedblair2/device-screen-info-compose/assets/39332527/d5bc68f9-bf5e-464d-929a-a1aab0f5eaaf)
 
 * In Portrait Mode
+
+  ![Screenshot_20231004_230359_DeviceScreenSize](https://github.com/tedblair2/device-screen-info-compose/assets/39332527/0c4f015a-4914-49ff-bfa8-21870da23613)
+
+The measurements used to determine the size and orientation of a device are based on those provided by Google in its official documentation [here](https://developer.android.com/guide/topics/large-screens/support-different-screen-sizes#window_size_classes). 
+The results from the library are mostly accurate for many devices. The library however does not take into consideration Foldable devices.
